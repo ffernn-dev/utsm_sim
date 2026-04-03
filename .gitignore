@@ -2,6 +2,13 @@
 **/.DS_Store
 ros_ws/*
 
+# Bytecode caches
+__pycache__/
+*.pyc
+*.pyo
+*.nbi
+*.nbc
+
 devel/
 logs/
 build/
